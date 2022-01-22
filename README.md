@@ -1,3 +1,5 @@
 # hello-world
-this is ms first git repository
-readme-edit branch edited 
+use-strict
+const a =4
+const b =3
+const c = a+b
